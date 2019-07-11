@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # avengers
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue_avengers
+>>>>>>> 3d5bcf9e3dda821439d15ac579ab872460eb1ac2
